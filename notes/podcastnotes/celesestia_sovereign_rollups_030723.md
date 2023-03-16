@@ -10,7 +10,7 @@ Disclaimer: I am learning about these technologies and really don't have any kno
 
 #### Why now?
 
-The invention of non-sovereign rollups as L2s on ethereum, and giving people the opportunity to see how these things work in real tie
+The invention of non-sovereign rollups as L2s on ethereum, and giving people the opportunity to see how these things work in real time
 
 Taproot, which gives Bitcoin much more witness space (390,000 bytes of data or if you work with a miner out of band you can get up to 4mb of data). This opens up the design space for the types of protocols you can build on Bitcoin.
 
