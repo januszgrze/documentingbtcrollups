@@ -6,9 +6,9 @@ I've found the potential for validity rollups on Bitcoin pretty interesting, and
 
 In this repo, I'll document:
 
--Podcast and Twitter spaces episodes and notes
--Aggregate threads and social media content
--Aggregate and highlight research
+- Podcast and Twitter spaces episodes and notes
+- Aggregate threads and social media content
+- Aggregate and highlight research
 
 As I do this, I'll likely start drafting newsletters. These newsletters will be more digestable than the notes I take and can likely be presented to interested audiences.
 
