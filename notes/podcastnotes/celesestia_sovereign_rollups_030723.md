@@ -1,4 +1,4 @@
-Disclaimer: I am learning about these technologies and really don't have any knowledge on them. If anything in the notes is glaringly incorrect, please let me know. I'm sharing these notes as they might be helpful to other novices in the space.
+Disclaimer: I am learning about these technologies and really don't have any knowledge on them. If anything in the notes is glaringly incorrect, please let me know. This repository is a learning excercise for myself, but I'm sharing in case it is valuable for others as well.
 
 [Spaces link](https://twitter.com/lightcoin/status/1633167389675143170)
 
