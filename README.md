@@ -1,4 +1,4 @@
-# Documenting Bitcoin Rollups.
+# Documenting Bitcoin Rollups
 
 Hey there! My name is Ian and I'm a digital cash enthusiast. I recently worked on a privacy-enabled layer 1, and am now taking a break from full-time work to travel and learn about things I find interesting.
 
