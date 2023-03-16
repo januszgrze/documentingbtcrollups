@@ -85,7 +85,7 @@ Blob space ethereum (deleting block space if not used)
 
 Off chain data availability layers
 
-Syconry assumptions Bitcoin
+Synchrony assumptions Bitcoin
 
 Sovereign cluster of chains
 
