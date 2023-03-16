@@ -12,7 +12,7 @@ In this repo, I'll document:
 
 As I do this, I'll likely start drafting newsletters. These newsletters will be more digestable than the notes I take and can likely be presented to interested audiences.
 
-I have experience in writing content on ZKPs and cryptocurrencies, but feel this area is a bit out of my comfort zone. I'm really excited to push myself and learn :)
+I have experience with writing content on ZKPs and such, but feel this area is a bit out of my comfort zone. I'm really excited to push myself and learn :)
 
 Thanks for checking this out!
 
