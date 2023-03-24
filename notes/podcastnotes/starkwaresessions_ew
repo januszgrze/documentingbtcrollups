@@ -1,3 +1,5 @@
+From this [talk](https://www.youtube.com/watch?v=_hLvvZGST_E)
+
 Taproot has this thing called [merkelized abstract syntex trees](https://www.google.com/search?q=merkelized+abstract+syntax+trees&biw=1041&bih=710&sxsrf=APwXEde0AtnAQYhpCVrRGbkfi-pzepoBEw%3A1679653840433&ei=0HsdZN2MGvH41sQPycuQ2AU&oq=merkelized+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgUIABCABDIGCAAQHhAKOgoIABBHENYEELADOgQIIxAnOggILhCKBRCRAjoICAAQigUQkQI6DgguEIAEEMcBENEDENQCOgUILhCABDoOCC4QigUQxwEQ0QMQkQI6BwguEIoFEEM6BwgAEIoFEEM6CgguEIoFENQCEEM6DgguEMcBENQCENEDEIAEOgsILhDHARDRAxCABDoNCC4QgAQQxwEQ0QMQCjoNCC4QgAQQxwEQrwEQCjoLCC4QgAQQxwEQ0QM6BwgAEIAEEAo6CAguEIAEENQCOgcILhCABBAKOgoILhCABBDUAhAKOgsILhCABBDHARCvAUoECEEYAFDlB1jPFmDcHmgDcAF4AIABlgGIAc4KkgEEMC4xMZgBAKABAcgBAsABAQ&sclient=gws-wiz-serp)
 
 Taproot adoption hasn't been great. Can do some interesting things like Schnoor signatures and multi signatures. The multi signatures can look like a single signature theoretically could help privacy.
